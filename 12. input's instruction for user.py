@@ -6,3 +6,4 @@ print("How much do u weigh?", end = ' ')
 weight = input("weight?")
 
 print (f"So you are {age} years old, my height is {height} and my weight is {weight}.")
+

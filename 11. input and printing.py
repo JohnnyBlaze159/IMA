@@ -7,4 +7,4 @@ print("How much do you weight?", end = ' ')
 weight = input()
 
 
-print(f"So, you are {age} years old, {height} tall, and {weight} heavy.")
+print(f"So, you are {age} years 25old, {height} tall, and {weight} heavy.")
